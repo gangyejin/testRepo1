@@ -1,2 +1,18 @@
 <link rel="stylesheet" type="text/css" href="mystyle.css">
 <link rel="stylesheet" type="text/css" href="http://cdn.site.com/css/mystyle.css">
+
+<head>
+<style>
+body {
+    background-color: red;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
+</head>
+<body>
+    ...
+</body>
