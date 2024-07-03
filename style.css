@@ -14,5 +14,11 @@
 <h1 id=“heading">CSS3 선택자 기본</h1>
 <h2 id="heading">CSS3 선택자 기본</h2>
 <h3 id="heading">CSS3 선택자 기본</h3>
+h1 {
+    font-weight:bold;
+    }
+    p{
+    font-size: 24px;
+    }
 </body>
 </html>
