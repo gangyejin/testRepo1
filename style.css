@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+* {
+    margin: 0;
+    padding: 0;
+    }
 <html>
 <head>
 <title>CSS3 Selector Basic</title>
